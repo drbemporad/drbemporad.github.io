@@ -43,7 +43,7 @@ body {
   width: 100%;
 }
 body.sitebg {
-  background-image: url(./sitebg.jpg);
+  background-image: url(../sitebg.jpg);
 }
 a {
   -webkit-transition: all 0.3s ease;
